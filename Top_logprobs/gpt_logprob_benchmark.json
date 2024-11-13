@@ -1,0 +1,162 @@
+[
+    {
+        "correct_answer": "C",
+        "tokens": [
+            {
+                "generated_token": "C",
+                "log_probability": -5.0378356e-05,
+                "linear_probability": 99.9949622912968,
+                "top_alternatives": [
+                    {
+                        "token": "C",
+                        "log_probability": -5.0378356e-05
+                    },
+                    {
+                        "token": " C",
+                        "log_probability": -10.207252
+                    },
+                    {
+                        "token": "D",
+                        "log_probability": -12.45325
+                    },
+                    {
+                        "token": "A",
+                        "log_probability": -13.0943575
+                    },
+                    {
+                        "token": "Answer",
+                        "log_probability": -13.154815
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "correct_answer": "B",
+        "tokens": [
+            {
+                "generated_token": "B",
+                "log_probability": -0.0010992534,
+                "linear_probability": 99.89013505576976,
+                "top_alternatives": [
+                    {
+                        "token": "B",
+                        "log_probability": -0.0010992534
+                    },
+                    {
+                        "token": "C",
+                        "log_probability": -7.0612664
+                    },
+                    {
+                        "token": "A",
+                        "log_probability": -8.722718
+                    },
+                    {
+                        "token": " B",
+                        "log_probability": -9.977954
+                    },
+                    {
+                        "token": "D",
+                        "log_probability": -11.355681
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "correct_answer": "D",
+        "tokens": [
+            {
+                "generated_token": "D",
+                "log_probability": -0.0003584648,
+                "linear_probability": 99.96415994408302,
+                "top_alternatives": [
+                    {
+                        "token": "D",
+                        "log_probability": -0.0003584648
+                    },
+                    {
+                        "token": "B",
+                        "log_probability": -8.968046
+                    },
+                    {
+                        "token": "A",
+                        "log_probability": -9.1591835
+                    },
+                    {
+                        "token": "451",
+                        "log_probability": -9.391054
+                    },
+                    {
+                        "token": " D",
+                        "log_probability": -10.322315
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "correct_answer": "C",
+        "tokens": [
+            {
+                "generated_token": "D",
+                "log_probability": -0.003805661,
+                "linear_probability": 99.620157135029,
+                "top_alternatives": [
+                    {
+                        "token": "D",
+                        "log_probability": -0.003805661
+                    },
+                    {
+                        "token": "A",
+                        "log_probability": -6.3815236
+                    },
+                    {
+                        "token": "C",
+                        "log_probability": -6.854382
+                    },
+                    {
+                        "token": "The",
+                        "log_probability": -7.473784
+                    },
+                    {
+                        "token": "B",
+                        "log_probability": -8.174228
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "correct_answer": "B",
+        "tokens": [
+            {
+                "generated_token": "B",
+                "log_probability": -0.0002257086,
+                "linear_probability": 99.97743168702698,
+                "top_alternatives": [
+                    {
+                        "token": "B",
+                        "log_probability": -0.0002257086
+                    },
+                    {
+                        "token": " B",
+                        "log_probability": -9.662627
+                    },
+                    {
+                        "token": "A",
+                        "log_probability": -10.091672
+                    },
+                    {
+                        "token": "Mer",
+                        "log_probability": -10.253459
+                    },
+                    {
+                        "token": "Option",
+                        "log_probability": -10.287475
+                    }
+                ]
+            }
+        ]
+    }
+]
